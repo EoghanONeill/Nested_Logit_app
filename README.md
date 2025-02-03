@@ -2,7 +2,7 @@ A simple shiny app for R illustrating the choice probabilities of the conditiona
 
 ```
 library("shiny")  
-runGitHub("EoghanONeill/Conditional_logit_app")
+runGitHub("EoghanONeill/Nested_Logit_app")
 
 ```
 
